@@ -10,6 +10,19 @@ body {
   color: white;
 }
 
+#travel-paragraph {
+  font-size: 21px;
+  font-family: Verdana;
+  color: gray;
+}
+
+.subHeading {
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+  color: white;
+}
+
 .coming-soon {
   font-size: 16px;
   color: Aquamarine;
